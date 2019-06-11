@@ -1,4 +1,4 @@
-package com.xiaopy.springboot.demo.service;
+package com.xiaopy.springboot.demo.demo;
 
 import java.util.concurrent.*;
 
