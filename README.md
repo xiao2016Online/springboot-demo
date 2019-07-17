@@ -2,7 +2,7 @@
 
 ## 使用环境
 
-本项目的代码是在SPringboot 2.x 创建的
+本项目的代码是在Springboot 2.x 创建的
 
 ## 内容
 
